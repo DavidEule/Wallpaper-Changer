@@ -22,8 +22,6 @@ Ein kleines Windows-Tool (Python + Tkinter), das ein Desktop-Hintergrundbild **p
 - `wallpaper.py` – Hauptskript (GUI + Registry/Apply)
 - `executesysadmin.cmd.txt` – CMD-Launcher, der `wallpaper.py` **elevated** startet (UAC)
 
-> Tipp: Benenne `executesysadmin.cmd.txt` um in z. B. **`Run-Wallpaper-Admin.cmd`** und lege die Datei in denselben Ordner wie `wallpaper.py`.
-
 ---
 
 ## ✅ Voraussetzungen
@@ -44,7 +42,7 @@ python wallpaper.py
 
 ### Variante B: Mit Admin-Rechten (UAC)
 
-Doppelklick auf **`Run-Wallpaper-Admin.cmd`** (umbenannte `executesysadmin.cmd.txt`).  
+Doppelklick auf **`Run-Wallpaper-Admin.cmd`**.  
 Der Launcher startet Python im Script-Ordner und fordert Admin-Rechte an.
 
 ---
