@@ -1,4 +1,4 @@
-# Gevidecoded – Wallpaper Policy Setter (Windows)
+# Vibecoded – Wallpaper Policy Setter (Windows)
 
 Ein kleines Windows-Tool (Python + Tkinter), das ein Desktop-Hintergrundbild **per Registry-Policy** setzt und anschließend **sofort** anwendet.
 
